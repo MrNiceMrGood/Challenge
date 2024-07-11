@@ -1,0 +1,11 @@
+"photoFeed" = "Photo Feed";
+"ok" = "OK";
+"defaultErrorMessage" = "Something went wrong. Please try again.";
+"badURL" = "Failed to create URL with error: %@ ";
+"unauthorized" = "You are not authorized! Error Description: %@";
+"unknown" = "Something went wrong. Error Description: %@";
+"badRequest" = "Failed to create request with error description: %@ ";
+"serverError" = "Failed to access server API. Error code %@. Error Description: %@";
+"invalidJSON" = "Failed to parse JSON with error description: %@ ";
+"networkError" = "Failed to parse JSON with error description: %@ ";
+"badData" = "Data is damaged or not in supported format!";
